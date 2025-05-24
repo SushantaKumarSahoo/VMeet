@@ -1,3 +1,4 @@
+'use client';
 import MeetingTypeList from '@/components/MeetingTypeList';
 
 const Home = () => {
